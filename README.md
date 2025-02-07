@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
